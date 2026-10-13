@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+       a{
+        text-decoration: none;
+        font-size: 2em;
+    }
+}
+
+nav, .middle{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.middle{
+width: 30%;
+}
+
+.side{
+width: 25%;
+text-align: center;
+}
